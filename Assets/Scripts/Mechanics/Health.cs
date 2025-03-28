@@ -58,3 +58,4 @@ namespace Platformer.Mechanics
             currentHP = maxHP;
         }
     }
+}
