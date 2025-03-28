@@ -22,7 +22,8 @@ namespace Platformer.Mechanics
         /// <summary>
         /// Max horizontal speed of the player.
         /// </summary>
-        public float maxSpeed = 2;
+        public float maxSpeed = 30;
+	public float turtles = 2;
         /// <summary>
         /// Initial jump velocity at the start of a jump.
         /// </summary>
